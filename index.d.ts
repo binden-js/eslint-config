@@ -172,7 +172,7 @@ declare const _default: {
     "keyword-spacing": "off";
     "line-comment-position": ["warn", { position: "above" }];
     "linebreak-style": ["error", "unix"];
-    "lines-around-comment": ["warn", { beforeBlockComment: true }];
+    "lines-around-comment": "off";
     "lines-between-class-members": "off";
     "max-len": "off";
     "max-statements-per-line": "off";

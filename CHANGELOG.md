@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.1](https://github.com/binden-js/eslint-config/compare/v1.0.0...v1.0.1) (2022-07-28)
+
+### Performance Improvements
+
+- disable the `lines-around-comment` rule ([f4dbc1f](https://github.com/binden-js/eslint-config/commit/f4dbc1f5b021c30c0eea7f7b8818f1399d698610))
+
 ## 1.0.0 (2022-07-24)
 
 ### Features

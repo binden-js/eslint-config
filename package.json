@@ -11,7 +11,8 @@
   },
   "scripts": {
     "commitlint": "commitlint --verbose --from=$( git rev-list --max-parents=0 $( git rev-parse --abbrev-ref HEAD ) )",
-    "install:clean": "rm -fr node_modules && rm -f package-lock.json && npm install",
+    "install:clean": "npm install",
+    "preinstall:clean": "rm -rf node_modules package-lock.json",
     "prepare": "husky install",
     "prettier": "prettier -c .",
     "prettier:write": "prettier -c -w ."
@@ -32,7 +33,7 @@
   },
   "homepage": "https://github.com/binden-js/eslint-config#readme",
   "peerDependencies": {
-    "eslint": "^8.20.0"
+    "eslint": "^8.23.0"
   },
   "devDependencies": {
     "@binden/commitlint-config": "^1.0.0",

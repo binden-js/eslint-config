@@ -5,7 +5,7 @@ declare const _default: {
   rules: {
     "array-callback-return": [
       "error",
-      { allowImplicit: true; checkForEach: true }
+      { allowImplicit: true; checkForEach: true },
     ];
     "no-await-in-loop": "off";
     "no-constant-binary-expression": "warn";
@@ -107,7 +107,7 @@ declare const _default: {
     "no-undefined": "error";
     "no-underscore-dangle": [
       "error",
-      { enforceInMethodNames: true; enforceInClassFields: true }
+      { enforceInMethodNames: true; enforceInClassFields: true },
     ];
     "no-unneeded-ternary": "error";
     "no-unused-expressions": "error";

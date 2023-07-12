@@ -4,6 +4,9 @@
 # commitlint config - https://github.com/conventional-changelog/commitlint
 .commitlintrc.json
 
+# ESLint config - https://eslint.org/
+.eslintrc.json
+
 # husky hooks - https://github.com/typicode/husky
 .husky
 

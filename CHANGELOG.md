@@ -1,5 +1,15 @@
 # Changelog
 
+## [2.0.0](https://github.com/binden-js/eslint-config/compare/v1.0.4...v2.0.0) (2024-01-28)
+
+### ⚠ BREAKING CHANGES
+
+- drop `Node.js` `<20.11.0` support
+
+### Performance Improvements
+
+- drop `Node.js` `<20.11.0` support ([884dd20](https://github.com/binden-js/eslint-config/commit/884dd20c5cbc4f36d82f09690b173dd56b9e826a))
+
 ## [1.0.4](https://github.com/binden-js/eslint-config/compare/v1.0.3...v1.0.4) (2024-01-28)
 
 ### Dependencies

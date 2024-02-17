@@ -36,7 +36,7 @@
     "eslint": "^8.56.0"
   },
   "devDependencies": {
-    "@binden/commitlint-config": "^2.0.0",
+    "@binden/commitlint-config": "^2.1.0",
     "@binden/semantic-release-config": "^3.0.0",
     "husky": "^9.0.7",
     "lint-staged": "^15.2.0",

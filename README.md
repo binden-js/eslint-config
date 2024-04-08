@@ -10,8 +10,17 @@ npm i --save-dev eslint-config-binden-js
 
 ## Usage
 
-- Add the `extends` property (in the `.eslintrc.json` file)
+- Add it to your configuration file
 
-```json
-{ "extends": "binden-js" }
+```js
+// eslint.config.js
+export { default } from "eslint-config-binden-js";
+```
+
+- One can add additional configuration objects
+
+```js
+// eslint.config.js
+import config from "eslint-config-binden-js";
+export default [...config, { rules: { "no-unused-vars": "off" } }];
 ```

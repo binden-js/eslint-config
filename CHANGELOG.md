@@ -1,5 +1,23 @@
 # Changelog
 
+## [3.0.0](https://github.com/binden-js/eslint-config/compare/v2.0.0...v3.0.0) (2024-04-08)
+
+### ⚠ BREAKING CHANGES
+
+- use the new configuration objects
+
+### Features
+
+- use the new configuration objects ([cd04056](https://github.com/binden-js/eslint-config/commit/cd04056b8fd3dce83a42eaf7e7e6a8708d099d2b))
+
+### Performance Improvements
+
+- bump minimum supported `Node.js` version to `v20.12.1` ([9587504](https://github.com/binden-js/eslint-config/commit/9587504129560b329f8328a8d9769cab31bb061a))
+
+### Dependencies
+
+- bump `eslint` to `v8.57.0` ([b687c65](https://github.com/binden-js/eslint-config/commit/b687c65b25e4150a49977f014b141bef8f4fca41))
+
 ## [2.0.0](https://github.com/binden-js/eslint-config/compare/v1.0.4...v2.0.0) (2024-01-28)
 
 ### ⚠ BREAKING CHANGES

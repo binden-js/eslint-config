@@ -2,8 +2,8 @@
   "name": "eslint-config-binden-js",
   "version": "2.0.0",
   "description": "Shareable ESLint config",
-  "main": ".eslintrc.json",
-  "type": "commonjs",
+  "main": "eslint.config.js",
+  "type": "module",
   "types": "index.d.ts",
   "engines": {
     "node": ">=20.11.0",
@@ -32,7 +32,11 @@
     "url": "https://github.com/binden-js/eslint-config/issues"
   },
   "homepage": "https://github.com/binden-js/eslint-config#readme",
+  "dependencies": {
+    "@eslint/js": "^9.0.0"
+  },
   "peerDependencies": {
+    "@types/eslint__js": "^8.42.3",
     "eslint": "^8.57.0"
   },
   "devDependencies": {

@@ -1,5 +1,19 @@
 # Changelog
 
+## [4.0.0](https://github.com/binden-js/eslint-config/compare/v3.0.0...v4.0.0) (2024-08-24)
+
+### ⚠ BREAKING CHANGES
+
+- bump `eslint` to `v9.9.1`
+
+### peerDependencies
+
+- bump `eslint` to `v9.9.1` ([204988c](https://github.com/binden-js/eslint-config/commit/204988c7ce5e2ff0bb487cd7e46c4c66c4900e5b))
+
+### Dependencies
+
+- bump @eslint/js from 9.0.0 to 9.9.1 ([58b56f1](https://github.com/binden-js/eslint-config/commit/58b56f19df9aaed4a175cf8c8eb485b8d1d5fb18))
+
 ## [3.0.0](https://github.com/binden-js/eslint-config/compare/v2.0.0...v3.0.0) (2024-04-08)
 
 ### ⚠ BREAKING CHANGES

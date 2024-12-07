@@ -142,7 +142,7 @@ declare const _default: [
       radix: "error";
       "require-await": "error";
       "require-unicode-regexp": "error";
-      "sort-imports": "off";
+      "sort-imports": "error";
       "sort-keys": "off";
       "sort-vars": "error";
       "spaced-comment": ["error", "always"];

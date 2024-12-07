@@ -1,5 +1,20 @@
 # Changelog
 
+## [5.0.0](https://github.com/binden-js/eslint-config/compare/v4.0.2...v5.0.0) (2024-12-07)
+
+### ⚠ BREAKING CHANGES
+
+- add the `sort-imports` rule
+- drop `Node.js<22` support
+
+### Performance Improvements
+
+- drop `Node.js<22` support ([6257497](https://github.com/binden-js/eslint-config/commit/6257497cb42c499ae51706299e23aca4106bba7d))
+
+### Code Refactoring
+
+- add the `sort-imports` rule ([d8336dd](https://github.com/binden-js/eslint-config/commit/d8336dd0d5290ca127e0b8f50b7f33762580b97f))
+
 ## [4.0.2](https://github.com/binden-js/eslint-config/compare/v4.0.1...v4.0.2) (2024-12-07)
 
 ### Dependencies

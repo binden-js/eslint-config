@@ -37,7 +37,7 @@
   },
   "peerDependencies": {
     "@types/eslint__js": "^8.42.3",
-    "eslint": "^9.10.0"
+    "eslint": "^9.16.0"
   },
   "devDependencies": {
     "@binden/commitlint-config": "^2.1.0",

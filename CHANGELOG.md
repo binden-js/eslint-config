@@ -1,5 +1,21 @@
 # Changelog
 
+## [6.0.0](https://github.com/binden-js/eslint-config/compare/v5.0.1...v6.0.0) (2026-04-14)
+
+### ⚠ BREAKING CHANGES
+
+- drop `Node.js` <24 support
+- bump `eslint` to `v10`
+
+### Performance Improvements
+
+- drop `Node.js` <24 support ([4243795](https://github.com/binden-js/eslint-config/commit/424379549bc2c2ce373e5c77b910ff22be3867b3))
+
+### Dependencies
+
+- bump @eslint/js from 9.21.0 to 10.0.1 ([aa72ce2](https://github.com/binden-js/eslint-config/commit/aa72ce23667d455f63dca51e0b752c4541a81ce8))
+- bump `eslint` to `v10` ([dce4b1b](https://github.com/binden-js/eslint-config/commit/dce4b1be62ab17375a7396cee4a78f4b22198e82))
+
 ## [5.0.1](https://github.com/binden-js/eslint-config/compare/v5.0.0...v5.0.1) (2025-02-24)
 
 ### Dependencies

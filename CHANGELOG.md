@@ -1,5 +1,15 @@
 # Changelog
 
+## [7.0.0](https://github.com/binden-js/eslint-config/compare/v6.0.0...v7.0.0) (2026-04-14)
+
+### ⚠ BREAKING CHANGES
+
+- rename package to `@binden/eslint-config`
+
+### Miscellaneous Chores
+
+- rename package to `@binden/eslint-config` ([74790a4](https://github.com/binden-js/eslint-config/commit/74790a450660c94fa18118a732861df90c266d7e))
+
 ## [6.0.0](https://github.com/binden-js/eslint-config/compare/v5.0.1...v6.0.0) (2026-04-14)
 
 ### ⚠ BREAKING CHANGES

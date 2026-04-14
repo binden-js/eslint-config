@@ -1,5 +1,11 @@
 # Changelog
 
+## [7.0.1](https://github.com/binden-js/eslint-config/compare/v7.0.0...v7.0.1) (2026-04-14)
+
+### Bug Fixes
+
+- add `publishConfig` ([69de035](https://github.com/binden-js/eslint-config/commit/69de035f23565b1b5750934fcbbc97c05ad3ad82))
+
 ## [7.0.0](https://github.com/binden-js/eslint-config/compare/v6.0.0...v7.0.0) (2026-04-14)
 
 ### ⚠ BREAKING CHANGES
